@@ -1,0 +1,31 @@
+{
+  "general": {
+    "appname": "Citofony"
+  },
+  "login": {
+    "user": "Username",
+    "pass": "Password",
+    "btn_login": "Login",
+    "terms_and_conditions": "Terms & Conditions, Citofony 2025",
+    "alerts": {
+      "error": "Login failed",
+      "error_desc": "User or password are wrong!"
+    }
+  },
+  "home": {
+    "appbar": "Notificactions",
+    "bar": {
+      "home": "Home",
+      "bookings": "Servicios",
+      "help": "Ayuda",
+      "Market": "Compras"
+    }
+  },
+  "notifications": {
+    "watchguard_chat": "Guardhouse message!",
+    "water": "Water!",
+    "energy": "Energy!",
+    "gas": "Gas!",
+    "warning": "Warning for Fine!"
+  }
+}
